@@ -79,6 +79,6 @@ print("fin de la prueba")
 print(p6)
 
 if p6 is True:
-	print("awas")
+	print("es verdad we")
 if p6 is False:
-	print("owos")
+	print("es falso we")
