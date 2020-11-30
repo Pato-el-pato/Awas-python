@@ -3,8 +3,9 @@ os.system('clear')
 #es para que quite la cosa que nadie nesesita
 
 #variables:
-##
+############################
 full_name = "Pato_el_pato"
+nombre = "Pato"
 a = 1
 b = 2
 c = ["d","e","f"]
@@ -15,7 +16,13 @@ h = {
 "p3": "t3"	
 }
 p6 = True 
-##
+p7 = 'quiero awa "entoces agarre awa"'
+p8 = "uwu 'owo'"
+p9 = "awas yo ser " + nombre
+p10 = "awas de owo"
+p11 = "AWAS DE UWU"
+p12 = "sinceramente no ser que poner"
+############################
 print(full_name)
 
 print("commands print")
@@ -48,6 +55,8 @@ if a < b:
 	print("b es mas grande que a")
 if a > b:
 	print("a es mas grande que b")
+if a == b:
+	print("vamo a ver")
 
 print("prueba")
 
@@ -82,3 +91,16 @@ if p6 is True:
 	print("es verdad we")
 if p6 is False:
 	print("es falso we")
+
+print(p7)
+
+print(p8)
+
+print(p9)
+
+print("strings")
+
+print(p10.upper())
+print(p11.lower())
+print(p12.capitalize())
+print(p12.title())
